@@ -1,0 +1,10 @@
+/* Custom CSS for modal content */
+.custom-modal-dark {
+    background-color: #333333; /* Dark gray background color */
+    color: #ffffff; /* White text color */
+}
+
+.custom-modal-light {
+    background-color: #f8f9fa; /* Light gray background color */
+    color: #000000; /* Black text color */
+}
