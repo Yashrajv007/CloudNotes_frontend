@@ -3,7 +3,7 @@ import { useState } from "react";
 import NoteContext from "./notecontext";
 
 const NoteState = (props) => {
-  const host = "http://localhost:5000"
+  const host = "https://cloud-notes-backend-nine.vercel.app"
   const notesinitial = []
 
   const [notes, setNotes] = useState(notesinitial);
